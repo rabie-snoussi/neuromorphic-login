@@ -6,7 +6,7 @@ Bellow you can find the previews of both mobile and desktop version.
 </br>
 </br>
 
-<img src="./preview/mobile.png" alt="mobile_preview" />
+<img src="./preview/mobile.png" alt="mobile_preview" width="320" />
 
 <sup>_Mobile version_</sup>
 </br>
